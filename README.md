@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/duc19092005/duc19092005/main/assets/banner-dev.gif" alt="Developer Banner"/>
   
-  <h1>Hi there, I'm Trần Anh 👋</h1>
+  <h1>Hi there, I'm Trần Anh Đức👋</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=College+Student;Backend+Developer;Web3+%26+Blockchain+Explorer" alt="Typing SVG" />
@@ -29,7 +29,7 @@ I believe in using the right tool for the job. Here are the technologies I'm pro
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,ts,mongodb,mssql,html,css,bootstrap,git,docker,nginx,solidity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,nodejs,express,ts,mongodb,github,html,css,bootstrap,git,docker,nginx,solidity&theme=dark" />
   </a>
 </div>
 
