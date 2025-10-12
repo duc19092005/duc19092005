@@ -1,12 +1,18 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/duc19092005/duc19092005/main/assets/banner-dev.gif" alt="Developer Banner"/>
+  
+  <h1>Hi there, I'm Trần Anh 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=College+Student;Backend+Developer;Web3+%26+Blockchain+Explorer" alt="Typing SVG" />
+  </a>
+  
+  <br>
+
   <img src="https://komarev.com/ghpvc/?username=duc19092005&style=for-the-badge&color=0077B5" alt="Profile views"/>
-  <h1>Hi there, I'm Trần Anh Đức 👋</h1>
-  <h3>College Student | Backend Developer & Web3 Enthusiast at HUFLIT</h3>
 </div>
 
-> I'm a passionate developer focusing on building robust applications and exploring the decentralized future with Web3 and Blockchain technology.
-
----
+<img src="https://raw.githubusercontent.com/duc19092005/duc19092005/main/assets/divider.gif" alt="Divider"/>
 
 ### 💡 What I'm Focusing On
 
@@ -15,7 +21,7 @@
 - 🗃️ **Database Experience:** Proficient with both NoSQL (**MongoDB**) and SQL (**Microsoft SQL Server**) databases.
 - 📂 **Explore My Work:** All of my public projects are available right here on my GitHub profile!
 
----
+<img src="https://raw.githubusercontent.com/duc19092005/duc19092005/main/assets/divider.gif" alt="Divider"/>
 
 ### 💻 My Tech Stack & Tools
 
@@ -27,7 +33,7 @@ I believe in using the right tool for the job. Here are the technologies I'm pro
   </a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/duc19092005/duc19092005/main/assets/divider.gif" alt="Divider"/>
 
 ### 📈 My GitHub Activity & Stats
 
@@ -37,7 +43,7 @@ I believe in using the right tool for the job. Here are the technologies I'm pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duc19092005&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/duc19092005/duc19092005/main/assets/divider.gif" alt="Divider"/>
 
 ### 🤝 Let's Connect!
 
