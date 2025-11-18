@@ -16,8 +16,8 @@
 
 ### 💡 What I'm Focusing On
 
-- 🚀 **Diving Deep into Web3:** Currently, my main focus is **Solidity**. I'm dedicated to mastering smart contract development to build decentralized applications (dApps).
-- 📚 **Solid Background:** I have a strong foundation in the **.NET (C#)** and **Node.js/Express** ecosystems.
+- 🚀 **Diving Deep into Backend Developer:** Currently, my main focus is **Typescript,dotnet**
+- 📚 **Background:** I have a strong foundation in the **.NET (C#)** and **Node.js/Express** ecosystems.
 - 🗃️ **Database Experience:** Proficient with both NoSQL (**MongoDB**) and SQL (**Microsoft SQL Server**) databases.
 - 📂 **Explore My Work:** All of my public projects are available right here on my GitHub profile!
 
