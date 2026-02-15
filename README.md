@@ -29,7 +29,7 @@ I believe in using the right tool for the job. Here are the technologies I'm pro
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,nodejs,express,ts,mongodb,github,html,css,bootstrap,git,docker,nginx,solidity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,ts,mongodb,github,git,docker,solidity&theme=dark" />
   </a>
 </div>
 
