@@ -1,187 +1,137 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=TRẦN%20ANH%20ĐỨC&fontSize=52&color=0:020010,100:1a0a3e&fontColor=e8eaf6&stroke=4ecdc4&strokeWidth=1&animation=fadeIn" />
+# TRẦN ANH ĐỨC
 
-```
-> OBJECT DESIGNATION  :  TRẦN ANH ĐỨC
-> CLASSIFICATION      :  Backend Developer · Software Engineering Student
-> COORDINATES         :  HUFLIT University · Ho Chi Minh City · Vietnam
-> OBSERVATION STATUS  :  ● ACTIVE — Currently in orbit around .NET & TypeScript
-```
+**Backend Developer · Software Engineering Student**  
+HUFLIT University · Ho Chi Minh City, Vietnam
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=520&lines=Exploring+the+backend+universe+🔭;Clean+Architecture+%7C+DDD+%7C+DI;ASP.NET+Core+%7C+TypeScript+%7C+Docker;Building+systems+in+the+dark+🌌" alt="Typing SVG" />
-</a>
+*"The measure of intelligence is the ability to change."*  
+— Albert Einstein
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=duc19092005&style=for-the-badge&color=1a0a3e&label=OBSERVERS" alt="Profile views"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=duc19092005&style=flat-square&color=4ecdc4&label=Visitors)](https://github.com/duc19092005)
 
 </div>
 
 ---
 
-## ✦ STELLAR OBJECT LOG
+## About
 
-> *"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."*
-> — Carl Sagan
+I build backend systems the way physicists build models — precise, falsifiable, and designed to hold under pressure.
 
-I'm a third-year Software Engineering student with a passion for building **scalable backend systems** and an obsession with **astrophysics, theoretical physics, and cosmology**. I write clean architecture by day and read Penrose by night.
+Third-year Software Engineering student with a focus on **scalable distributed systems** and a long-standing fascination with **theoretical physics and cosmology**. I hold the same conviction Einstein did: *imagination is not decorative — it is the engine of everything*. Applied to code, that means I care as much about *why* a system is structured a certain way as I do about whether it runs.
 
-Currently navigating the intersection of:
-- **Backend Development** — ASP.NET Core, Node.js, Clean Architecture, DDD
-- **Blockchain Engineering** — Smart contracts, on-chain traceability systems
-- **The Observable Universe** — black holes, neutron stars, and everything that breaks physics
+Currently working at the intersection of:
 
----
-
-## 🔭 MISSION CONTROL — What I'm Focusing On
-
-```
-MISSION_01  ──  Deep dive into TypeScript & .NET ecosystem
-MISSION_02  ──  Mastering system architecture patterns (DDD, Clean Arch, CQRS)
-MISSION_03  ──  Building production-grade APIs that survive real traffic
-MISSION_04  ──  Exploring the void between code and the cosmos
-```
+- **Backend Architecture** — ASP.NET Core, Node.js, Clean Architecture, Domain-Driven Design
+- **Blockchain Engineering** — Smart contracts, on-chain traceability, Hardhat/Solidity
+- **Applied Mathematics** — Pursuing a Master's in Applied Mathematics & Informatics (Moscow, Sep 2026)
 
 ---
 
-## 🌌 STAR CHART — Tech Stack
+## Philosophy
 
-*Each system in my constellation:*
+> *"The distinction between past, present and future is only a stubbornly persistent illusion."*  
+> — Albert Einstein, on the nature of time
 
-### ◈ Core Systems
+> *"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."*  
+> — Stephen Hawking
+
+Time in distributed systems — ordering, causality, eventual consistency — is exactly this. There is no universal *now* across nodes, just as there is none across spacetime. Physics and engineering are asking the same question from different angles.
+
+I believe the same discipline that makes a physicist ask *why does gravity curve spacetime?* makes a good engineer ask *why does this abstraction leak?* Curiosity is not a hobby — it is the method.
+
+**Slogan:**  
+`// Where equations end, systems begin. Both describe the same universe.`
+
+---
+
+## Tech Stack
+
+**Languages & Runtimes**
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nodejs&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,ts,nodejs,solidity&theme=dark" />
 </div>
 
-### ◈ Data & Infrastructure
+**Frameworks & Infrastructure**
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,redis&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,express,postgres,mongodb,redis,docker,linux,git&theme=dark" />
 </div>
 
-### ◈ Tools & Instruments
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,linux&theme=dark" />
-  </a>
-</div>
-
-### ◈ Special Phenomena
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
-  </a>
+**Patterns & Practices**
 
 ```
-  HARDHAT ──── Smart Contract Dev & Testing
-  JWT/OAuth2 ── Authentication Systems
-  EF Core ───── ORM & Database Mapping
-  DDD/CleanArch  Architecture Patterns
-```
-</div>
-
----
-
-## 🛰️ MISSION LOGS — Projects
-
-### `[MISSION-01]` LUMIÈRE PROTOCOL
-> **Cinema Management System** · Solo · Jan 2026 – Apr 2026
-
-```
-STATUS      :  ✅ DEPLOYED
-STACK       :  C# · ASP.NET Core · MS SQL Server · EF Core · Docker · JWT
-OBJECTIVE   :  Full backend system for multi-tenant cinema operations
-```
-
-- Architected a fully decoupled system from scratch using **Clean Architecture**, **DI**, and **Factory Pattern**
-- Engineered **30+ RESTful APIs** with optimized EF Core queries and complex business logic
-- Implemented **OAuth2/JWT with RBAC** securing endpoints across 4 role tiers (Admin · Manager · Cashier · Customer)
-- HttpOnly cookie token storage — XSS-resistant authentication layer
-- Containerized via **Docker**, deployed frontend on **Vercel** with API proxy routing
-
-🔗 [Backend Repo](#) · [Frontend Repo](#) · [Live Demo](#)
-
----
-
-### `[MISSION-02]` CHAIN OF CUSTODY
-> **Drug Traceability dApp** · Team of 5 · Oct 2025 – Dec 2025
-
-```
-STATUS      :  🏆 AWARD WINNER — 3rd Place · Pione Hackathon 2025
-STACK       :  TypeScript · ExpressJS · MongoDB · Hardhat · Solidity · JWT
-OBJECTIVE   :  Blockchain-integrated supply chain for pharmaceutical traceability
-```
-
-- Developed core business logic in **DDD architecture** — encapsulated complex domain rules
-- Built **smart contracts** with Hardhat for on-chain drug provenance verification
-- Designed RESTful APIs handling secure auth and traceability data persistence via **MongoDB**
-- Integrated **AI + Blockchain** — winning combination at Pione 2025
-
-🔗 [Backend Repo](#) · [Smart Contract Repo](#) · [Demo Video](#)
-
----
-
-## 📡 SIGNAL RECEIVED — Achievements
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  INCOMING TRANSMISSION                                       ║
-║  ─────────────────────────────────────────────────────────  ║
-║  ORIGIN  :  Pione Hackathon 2025                            ║
-║  TEAM    :  Dev Chicken HUFLIT                              ║
-║  PAYLOAD :  Drug Traceability dApp                         ║
-║  RESULT  :  🥉 3rd PLACE · AI + Blockchain Integration      ║
-║  SIGNAL  :  ████████████████████░░  STRONG                 ║
-╚══════════════════════════════════════════════════════════════╝
+Clean Architecture  ·  DDD  ·  CQRS  ·  JWT/OAuth2
+EF Core  ·  Hardhat  ·  On-chain provenance
 ```
 
 ---
 
-## 🌠 OBSERVATION LOG — GitHub Activity
+## Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duc19092005&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&rank_icon=github&title_color=4ecdc4&icon_color=ffaa00&text_color=e8eaf6&bg_color=020010" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=duc19092005&theme=vision-friendly-dark&hide_border=true&background=020010&stroke=1a0a3e&ring=4ecdc4&fire=ffaa00&currStreakLabel=4ecdc4&sideLabels=e8eaf6&dates=888888" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duc19092005&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=4ecdc4&text_color=e8eaf6&bg_color=020010" alt="Top Languages" />
-</div>
+### Lumière Protocol — Cinema Management System
+`C# · ASP.NET Core · MS SQL Server · EF Core · Docker · JWT`  
+*Solo · Jan 2026 – Apr 2026*
+
+A fully decoupled backend for multi-tenant cinema operations, built from scratch.
+
+- Designed system architecture using **Clean Architecture** and **Dependency Injection**
+- Engineered **30+ RESTful APIs** with optimized EF Core queries across complex business domains
+- Implemented **OAuth2/JWT with RBAC** across 4 role tiers — Admin, Manager, Cashier, Customer
+- HttpOnly cookie token storage for XSS-resistant authentication
+- Containerized via **Docker**, frontend deployed on Vercel with API proxy routing
+
+[Backend](#) · [Frontend](#) · [Demo](#)
 
 ---
 
-## 🪐 OPEN CHANNEL — Contact
+### Chain of Custody — Drug Traceability dApp
+`TypeScript · ExpressJS · MongoDB · Hardhat · Solidity · JWT`  
+*Team of 5 · Oct 2025 – Dec 2025 · 🥉 3rd Place — Pione Hackathon 2025*
 
-*Signals are welcome from any corner of the observable universe.*
+Blockchain-integrated supply chain system for pharmaceutical traceability.
+
+- Led backend domain logic in **DDD architecture** — complex domain rules cleanly encapsulated
+- Built and tested **Solidity smart contracts** with Hardhat for on-chain drug provenance
+- Designed RESTful APIs handling authentication and traceability persistence via MongoDB
+- Combined AI inference with on-chain verification — awarded at Pione 2025
+
+[Backend](#) · [Smart Contracts](#) · [Demo](#)
+
+---
+
+## Recognition
+
+| Event | Team | Result |
+|---|---|---|
+| Pione Hackathon 2025 | Dev Chicken HUFLIT | 🥉 3rd Place — AI + Blockchain |
+
+---
+
+## GitHub
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-duc19092005d%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duc19092005d@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B84_914_370_300-1a0a3e?style=for-the-badge&logo=phone&logoColor=4ecdc4)](tel:+84914370300)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.uc.823186)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duc19092005&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=4ecdc4&icon_color=ffaa00&text_color=e8eaf6&bg_color=020010)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=duc19092005&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=4ecdc4&text_color=e8eaf6&bg_color=020010)
 
 </div>
 
 ---
 
+## Contact
+
+[![Gmail](https://img.shields.io/badge/duc19092005d@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duc19092005d@gmail.com)
+[![Phone](https://img.shields.io/badge/+84_914_370_300-1a0a3e?style=flat-square&logoColor=4ecdc4)](tel:+84914370300)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tran.uc.823186)
+
+---
+
 <div align="center">
 
-```
-  ✦        *           .       ✦          *         .        ✦
-     .           *         ✦        .           *
-  ────────────────────────────────────────────────────────────
-   "Two possibilities exist: either we are alone in the
-    universe or we are not. Both are equally terrifying."
-                                            — Arthur C. Clarke
-  ────────────────────────────────────────────────────────────
-     *        ✦          .        *          ✦          .
-  .       ✦        *          .        ✦          *
-```
-
-*Last transmission: auto-updated · Signal strength: optimal*
+*"The important thing is not to stop questioning. Curiosity has its own reason for existing."*  
+— Albert Einstein
 
 </div>
