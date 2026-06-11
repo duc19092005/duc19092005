@@ -28,23 +28,6 @@ Currently working at the intersection of:
 
 ---
 
-## Philosophy
-
-> *"The distinction between past, present and future is only a stubbornly persistent illusion."*  
-> — Albert Einstein, on the nature of time
-
-> *"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."*  
-> — Stephen Hawking
-
-Time in distributed systems — ordering, causality, eventual consistency — is exactly this. There is no universal *now* across nodes, just as there is none across spacetime. Physics and engineering are asking the same question from different angles.
-
-I believe the same discipline that makes a physicist ask *why does gravity curve spacetime?* makes a good engineer ask *why does this abstraction leak?* Curiosity is not a hobby — it is the method.
-
-**Slogan:**  
-`// Where equations end, systems begin. Both describe the same universe.`
-
----
-
 ## Tech Stack
 
 **Languages & Runtimes**
