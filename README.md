@@ -124,7 +124,6 @@ Blockchain-integrated supply chain system for pharmaceutical traceability.
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/duc19092005d@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duc19092005d@gmail.com)
-[![Phone](https://img.shields.io/badge/+84_914_370_300-1a0a3e?style=flat-square&logoColor=4ecdc4)](tel:+84914370300)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tran.uc.823186)
 
 ---
