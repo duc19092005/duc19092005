@@ -44,44 +44,9 @@ Currently working at the intersection of:
 **Patterns & Practices**
 
 ```
-Clean Architecture  ·  DDD  ·  CQRS  ·  JWT/OAuth2
-EF Core  ·  Hardhat  ·  On-chain provenance
+Clean Architecture  ·  CQRS  ·  JWT/OAuth2
+EF Core  ·
 ```
-
----
-
-## Projects
-
-### Lumière Protocol — Cinema Management System
-`C# · ASP.NET Core · MS SQL Server · EF Core · Docker · JWT`  
-*Solo · Jan 2026 – Apr 2026*
-
-A fully decoupled backend for multi-tenant cinema operations, built from scratch.
-
-- Designed system architecture using **Clean Architecture** and **Dependency Injection**
-- Engineered **30+ RESTful APIs** with optimized EF Core queries across complex business domains
-- Implemented **OAuth2/JWT with RBAC** across 4 role tiers — Admin, Manager, Cashier, Customer
-- HttpOnly cookie token storage for XSS-resistant authentication
-- Containerized via **Docker**, frontend deployed on Vercel with API proxy routing
-
-[Backend](#) · [Frontend](#) · [Demo](#)
-
----
-
-### Chain of Custody — Drug Traceability dApp
-`TypeScript · ExpressJS · MongoDB · Hardhat · Solidity · JWT`  
-*Team of 5 · Oct 2025 – Dec 2025 · 🥉 3rd Place — Pione Hackathon 2025*
-
-Blockchain-integrated supply chain system for pharmaceutical traceability.
-
-- Led backend domain logic in **DDD architecture** — complex domain rules cleanly encapsulated
-- Built and tested **Solidity smart contracts** with Hardhat for on-chain drug provenance
-- Designed RESTful APIs handling authentication and traceability persistence via MongoDB
-- Combined AI inference with on-chain verification — awarded at Pione 2025
-
-[Backend](#) · [Smart Contracts](#) · [Demo](#)
-
----
 
 ## Recognition
 
