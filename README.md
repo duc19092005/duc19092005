@@ -22,9 +22,8 @@ Third-year Software Engineering student with a focus on **scalable distributed s
 
 Currently working at the intersection of:
 
-- **Backend Architecture** — ASP.NET Core, Node.js, Clean Architecture, Domain-Driven Design
+- **Backend Architecture** — ASP.NET Core, Node.js, Clean Architecture
 - **Blockchain Engineering** — Smart contracts, on-chain traceability, Hardhat/Solidity
-- **Applied Mathematics** — Pursuing a Master's in Applied Mathematics & Informatics (Moscow, Sep 2026)
 
 ---
 
