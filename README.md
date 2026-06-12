@@ -33,13 +33,13 @@ Currently working at the intersection of:
 **Languages & Runtimes**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,ts,nodejs,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,nodejs&theme=dark" />
 </div>
 
 **Frameworks & Infrastructure**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,express,postgres,mongodb,redis,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,express,git&theme=dark" />
 </div>
 
 **Patterns & Practices**
