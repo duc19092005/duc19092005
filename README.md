@@ -1,6 +1,6 @@
 # Hi there, I'm TRAN ANH DUC 👋
 ### 🚀 Software Engineering Student & Backend Developer
-
+[![Profile Views](https://komarev.com/ghpvc/?username=duc19092005&style=flat-square&color=4ecdc4&label=Visitors)](https://github.com/duc19092005
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=Building+reliable+backend+systems.;Focused+on+Clean+Architecture+%26+DDD.;Exploring+Blockchain+%26+AI+integration." alt="Typing SVG" /></a>
 </p>
