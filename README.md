@@ -33,7 +33,7 @@ My primary direction is building backend systems that are clear, maintainable, a
 ## ⚡ Current Focus
 
 - 🎯 **Backend Engineering:** Deep diving into Advanced ASP.NET Core, EF Core optimization, and SQL Server performance tuning.
-- 🏗️ **Software Architecture:** Mastering Clean Architecture, Domain-Driven Design (DDD), RBAC, and RESTful API best practices.
+- 🏗️ **Software Architecture:** Deep focus into Clean Architecture, RBAC, and RESTful API best practices.
 - 🔄 **Real-Time Systems:** Event-driven workflows using SignalR, Redis caching, and message distribution.
 - ⛓️ **Blockchain Engineering:** Writing secure Solidity smart contracts and implementing rigorous Smart Contract Testing.
 
