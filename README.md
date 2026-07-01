@@ -1,4 +1,4 @@
-# Hi there, I'm [Tên của bạn] 👋
+# Hi there, I'm TRAN ANH DUC 👋
 ### 🚀 Software Engineering Student & Backend Developer
 
 <p align="left">
